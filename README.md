@@ -1,6 +1,7 @@
 Hello, My name is Jericho, my internet name goes by the name of South Valley, the place where I live in, and Kamakiri, a name created by the figment of my Imagination.
 
-I love Anime, it has became my main hobby, My friends often may call me South, the weeb. 
+I love Anime, it has became my main hobby, My friends often may call me South, the weeb. I also had taken interest on Japan and their Traditions. Implementing their teachings on my life to improve.
+
 I developed a liking in learning new things everyday, Developing my Talents.
 
 I am striving to become the better version than I was yesterday, by developing not only my Intellectual Capacity, but my Physical, Emotional,and Moral Capacity.
