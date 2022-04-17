@@ -5,6 +5,7 @@
 - Currently, most of my Repositories are set to private. But might upload stuff to public in the near future!
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to sketch Anime Characters and play the Piano
+- 🥅 2022 Goals: Learn Front-end and Master React.js
 
 ### Languages and Tools I use:
 
