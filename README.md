@@ -1,4 +1,4 @@
-# Hi there, I'm Jericho - aka [South Valley#4534][discord] 👋 
+# Hi there, I'm Jericho - aka [South Valley#4534 from Discord]👋 
 
 ## I'm an Anime Lover, Sports Player, Developer, and a Hacker!
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to sketch Anime Characters and play the Piano
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
