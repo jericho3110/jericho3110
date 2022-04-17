@@ -3,7 +3,7 @@
 ## I'm an Anime Lover, Sports Player, Developer, and a Hacker!
 
 - Currently, most of my Repositories are set to private. But might upload stuff to public in the near future!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Cyber Security
 - ⚡ Fun fact: I love to sketch Anime Characters and play the Piano
 - 🥅 2022 Goals: Learn Front-end and Master React.js
 
