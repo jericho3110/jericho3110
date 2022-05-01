@@ -91,5 +91,5 @@ if __name__ == '__main__':
 </p>
 
 #### Contribution Graph
-[(https://activity-graph.herokuapp.com/graph?username=jericho3110&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
