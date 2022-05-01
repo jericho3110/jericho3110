@@ -34,6 +34,5 @@
 <br><br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jericho3110&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
