@@ -51,8 +51,21 @@ def main():
 
 if __name__ == '__main__':
     main()
-```
 
+"""
+OUTPUT:
+    Name: Jericho
+    Age: 14
+    Gender: Male            
+            
+
+        Skill Set:
+        {'Python': 100, 'C++': 75, 'C': 50, 'Javascript': 50}
+
+        Currently Studying:
+        ['Python', 'C++', 'OpenCV', 'OpenAI']  
+"""
+```
 ### Languages and Tools I use:
 
 <span>
