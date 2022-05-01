@@ -29,6 +29,10 @@
 <br>
 
 # Stats
+<br>
+<img src="https://github.com/jericho3110/jericho3110/blob/main/images/stat.svg" alt="Wakatime Stats"/>
+<br>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
