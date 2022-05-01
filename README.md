@@ -29,9 +29,6 @@
 <br>
 
 # Stats
-<br>
-<img src="https://github.com/jericho3110/jericho3110/blob/main/images/stat.svg" alt="Wakatime Stats"/>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jericho3110&langs_count=10&hide=shell&theme=radical)](https://github.com/x13xDread)
 <br><br>
