@@ -94,10 +94,10 @@ if __name__ == '__main__':
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=jericho3110&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
 #### Links
-Twitter - https://twitter.com/Kamakiri_South
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt="Twitter" height='40'>](https://twitter.com/Kamakiri_South)
 
-StackOverflow - https://stackoverflow.com/users/17341239/kamakiri
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt="StackOverflow" height='40'>](https://stackoverflow.com/users/17341239/kamakiri)
 
-Steam - https://steamcommunity.com/profiles/76561199242693046
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt="Steam" height='40'>](https://steamcommunity.com/profiles/76561199242693046)
 
-Youtube - https://www.youtube.com/channel/UCi99lOsjYkYRnbObbZPwWgQ
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt="Youtube" height='40'>](https://www.youtube.com/channel/UCi99lOsjYkYRnbObbZPwWgQ)
