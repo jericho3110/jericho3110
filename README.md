@@ -95,6 +95,9 @@ if __name__ == '__main__':
 
 #### Links
 Twitter - https://twitter.com/Kamakiri_South
+
 StackOverflow - https://stackoverflow.com/users/17341239/kamakiri
+
 Steam - https://steamcommunity.com/profiles/76561199242693046
+
 Youtube - https://www.youtube.com/channel/UCi99lOsjYkYRnbObbZPwWgQ
