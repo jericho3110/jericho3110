@@ -90,3 +90,6 @@ if __name__ == '__main__':
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jericho3110&theme=onedarkr" alt="jericho3110" />
 </p>
 
+#### Contribution Graph
+[(https://activity-graph.herokuapp.com/graph?username=jericho3110&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+
