@@ -31,7 +31,6 @@
 # Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jericho3110&langs_count=10&hide=shell&theme=radical)](https://github.com/x13xDread)
-<br><br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
