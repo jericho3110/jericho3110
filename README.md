@@ -100,7 +100,10 @@ if __name__ == '__main__':
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt="Steam" height='40'>](https://steamcommunity.com/profiles/76561199242693046)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt="Youtube" height='40'>](https://www.youtube.com/channel/UCi99lOsjYkYRnbObbZPwWgQ)
+<p>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt="Youtube" height='40'>](https://www.youtube.com/channel/UCi99lOsjYkYRnbObbZPwWgQ)
+  Youtube
+</p>
 
 <br>
 <img src="https://github.com/jericho3110/x13xDread/blob/main/images/stat.svg" alt="Wakatime Stats"/>
