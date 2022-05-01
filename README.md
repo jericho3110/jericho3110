@@ -7,6 +7,48 @@
 - ⚡ Fun fact: I love to sketch Anime Characters and play the Piano
 - 🥅 2022 Goals: Learn Front-end and Master React.js
 
+### A little more about me:
+```py
+def main():
+    class South:
+        def __init__(self, name, age, gender):
+            self.name = name
+            self.age = age
+            self.gender = gender        
+            print(f'''
+    Name: {name}
+    Age: {age}
+    Gender: {gender}            
+            ''')
+            code = {
+                "Python" : 100,
+                "C++" : 75,
+                "C" : 50,
+                "Javascript" : 50,
+            }
+            studying = {
+            "Robotics" : 
+                [
+                "Python",
+                "C++",
+                "OpenCV",
+                "OpenAI"
+                ]
+            }
+            print(f'''
+        Skill Set:
+        {code}\n
+        Currently Studying:
+        {studying["Robotics"]}
+        ''')
+        
+
+    South_Valley = South("Jericho", 14, "Male")
+
+if __name__ == '__main__':
+    main()
+```
+
 ### Languages and Tools I use:
 
 <span>
