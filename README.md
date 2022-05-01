@@ -77,6 +77,7 @@ if __name__ == '__main__':
 ### Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jericho3110&row=3&column=7&theme=onedark&column=8&no-frame=false&no-bg=false" alt="jericho3110"></a>
 </p>
+
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jericho3110&count_private=true&show_icons=true&theme=onedark" alt="github stats" />
