@@ -26,6 +26,7 @@
 
   <img align="left" alt="JavaScript" width = "10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 </span>
+<br>
 
 # Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
