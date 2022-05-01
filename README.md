@@ -76,8 +76,14 @@ if __name__ == '__main__':
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jericho3110&langs_count=10&hide=shell&theme=onedark)](https://github.com/jericho3110)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jericho3110&count_private=true&show_icons=true&theme=onedark" alt="github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jericho3110&count_private=true&langs_count=3&theme=onedark" />
+</a>
+<br><br>
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jericho3110&theme=onedarkr" alt="jericho3110" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jericho3110&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
