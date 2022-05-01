@@ -29,5 +29,5 @@
 
 # Stats
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?jericho3110= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jericho3110 &theme=radical)
 <br>
