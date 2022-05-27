@@ -25,18 +25,18 @@ def main():
     Gender: {gender}            
             ''')
             code = {
-                "Python" : 100,
-                "C++" : 75,
-                "C" : 50,
-                "Javascript" : 50,
+                "Javascript" : 100,
+                "Python"     : 100,
+                "C++"        : 75,
+                "Git"        : 50,
+                "C"          : 25
             }
             studying = {
             "Robotics" : 
                 [
-                "Python",
-                "C++",
                 "OpenCV",
-                "OpenAI"
+                "TensorFlow",
+                "Sentiment Analysis"
                 ]
             }
             print(f'''
@@ -56,14 +56,14 @@ if __name__ == '__main__':
 OUTPUT:
     Name: Jericho
     Age: 14
-    Gender: Male            
-            
+    Gender: Male
+
 
         Skill Set:
-        {'Python': 100, 'C++': 75, 'C': 50, 'Javascript': 50}
+        {'Javascript': 100, 'Python': 100, 'C++': 75, 'Git': 50, 'C': 25}
 
         Currently Studying:
-        ['Python', 'C++', 'OpenCV', 'OpenAI']  
+        ['OpenCV', 'TensorFlow', 'Sentiment Analysis']
 """
 ```
 ### Languages and Tools I use:
