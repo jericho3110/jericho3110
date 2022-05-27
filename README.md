@@ -24,14 +24,14 @@ def main():
         Age: {age}
         Gender: {gender}            
             ''')
-            code = {
+            Technologies = {
                 "Javascript" : 100,
                 "Python"     : 100,
                 "C++"        : 75,
                 "Git"        : 50,
                 "C"          : 25
             }
-            studying = {
+            Studying = {
             "Robotics" : 
                 [
                 "OpenCV",
@@ -41,9 +41,9 @@ def main():
             }
             print(f'''
         Skill Set:
-        {code}\n
+        {Technologies}\n
         Currently Studying:
-        {studying["Robotics"]}
+        {Studying["Robotics"]}
         ''')
         
 
@@ -53,7 +53,7 @@ if __name__ == '__main__':
     main()
 """
 OUTPUT:
-    Name: Jericho
+        Name: Jericho
         Age: 14
         Gender: Male
 
