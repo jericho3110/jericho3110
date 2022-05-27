@@ -20,9 +20,9 @@ def main():
             self.age = age
             self.gender = gender        
             print(f'''
-    Name: {name}
-    Age: {age}
-    Gender: {gender}            
+        Name: {name}
+        Age: {age}
+        Gender: {gender}            
             ''')
             code = {
                 "Javascript" : 100,
@@ -51,12 +51,11 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 """
 OUTPUT:
     Name: Jericho
-    Age: 14
-    Gender: Male
+        Age: 14
+        Gender: Male
 
 
         Skill Set:
