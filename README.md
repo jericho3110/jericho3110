@@ -27,8 +27,8 @@ def main():
             Technologies = {
                 "Javascript" : 100,
                 "Python"     : 100,
-                "C++"        : 75,
-                "Git"        : 50,
+                "Bash"       : 75,
+                "C++"        : 50,
                 "C"          : 25
             }
             Studying = {
@@ -59,7 +59,7 @@ OUTPUT:
 
 
         Skill Set:
-        {'Javascript': 100, 'Python': 100, 'C++': 75, 'Git': 50, 'C': 25}
+        {'Javascript': 100, 'Python': 100, 'Bash': 75, 'C++': 50, 'C': 25}
 
         Currently Studying:
         ['OpenCV', 'TensorFlow', 'Sentiment Analysis']
