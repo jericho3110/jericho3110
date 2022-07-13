@@ -32,37 +32,37 @@ def main():
                 "C"          : 25
             }
             Studying = {
-            "Robotics" : 
+            "Front-End" : 
                 [
-                "OpenCV",
-                "TensorFlow",
-                "Sentiment Analysis"
+                "Bootstrap",
+                "Javascript",
+                "React"
                 ]
             }
             print(f'''
         Skill Set:
         {Technologies}\n
         Currently Studying:
-        {Studying["Robotics"]}
+        {Studying["Front-End"]}
         ''')
         
 
-    South_Valley = South("Jericho", 14, "Male")
+    South_Valley = South("Jericho", 15, "Male")
 
 if __name__ == '__main__':
     main()
 """
 OUTPUT:
         Name: Jericho
-        Age: 14
-        Gender: Male
-
+        Age: 15
+        Gender: Male            
+            
 
         Skill Set:
         {'Javascript': 100, 'Python': 100, 'Bash': 75, 'C++': 50, 'C': 25}
 
         Currently Studying:
-        ['OpenCV', 'TensorFlow', 'Sentiment Analysis']
+        ['Bootstrap', 'Javascript', 'React']
 """
 ```
 ### Languages and Tools I use:
