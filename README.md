@@ -7,9 +7,9 @@
 ## I'm also an Anime Lover, Gamer, Sports Player, Sketcher, and a Pianist!
 
 - Currently, most of my Repositories are set to private. But might upload stuff to public in the near future!
-- 🌱 I’m currently learning Cyber Security and Robotics
-- ⚡ Fun fact: I love to sketch Anime Characters and play the Piano
-- 🥅 2022 Goals: Learn Front-end and Master React.js
+- 🌱 I’m currently mastering the MERN tech-stack
+- ⚡ Fun fact: I love to sketch Anime Characters and play football
+- 🥅 2023 Goals: Read more books that pertains to life
 
 ### A little more about me:
 ```py
@@ -27,16 +27,14 @@ def main():
             Technologies = {
                 "Javascript" : 100,
                 "Python"     : 100,
-                "Bash"       : 75,
-                "C++"        : 50,
-                "C"          : 25
             }
             Studying = {
             "Front-End" : 
                 [
-                "Bootstrap",
-                "Javascript",
-                "React"
+                "MongoDB",
+                "Expressjs",
+                "React",
+                "Nodejs"
                 ]
             }
             print(f'''
@@ -47,23 +45,10 @@ def main():
         ''')
         
 
-    South_Valley = South("Jericho", 15, "Male")
+    South_Valley = South("South", 15, "Male")
 
 if __name__ == '__main__':
     main()
-"""
-OUTPUT:
-        Name: Jericho
-        Age: 15
-        Gender: Male            
-            
-
-        Skill Set:
-        {'Javascript': 100, 'Python': 100, 'Bash': 75, 'C++': 50, 'C': 25}
-
-        Currently Studying:
-        ['Bootstrap', 'Javascript', 'React']
-"""
 ```
 ### Languages and Tools I use:
 
