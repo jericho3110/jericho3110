@@ -89,9 +89,6 @@ if __name__ == '__main__':
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jericho3110&theme=onedarkr" alt="jericho3110" />
 </p>
 
-#### Contribution Graph
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=jericho3110&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-
 #### Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt="Twitter" height='40'>](https://twitter.com/Kamakiri_South)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt="StackOverflow" height='40'>](https://stackoverflow.com/users/17341239/kamakiri)
