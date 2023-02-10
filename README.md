@@ -1,7 +1,7 @@
 # Hey there, I'm South - aka [South_Valley.exe#4534 from Discord]!👋
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Python+Developer...;I'm+an+AI+Developer...;And+I'm+a+Hacker!;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Python+Developer...;I'm+a+MERN+user...;And+I'm+an+Anime+enjoyer!;" /></a>
 </p>
 
 ## I'm also an Anime Lover, Gamer, Sports Player, Sketcher, and a Pianist!
