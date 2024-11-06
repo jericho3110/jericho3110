@@ -1,15 +1,15 @@
-# Hey there, I'm South - aka [South_Valley.exe#4534 from Discord]!👋
+# Hey there, I'm South!👋
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Python+Developer...;I'm+a+MERN+user...;And+I'm+an+Anime+enjoyer!;" /></a>
 </p>
 
-## I'm also an Anime Lover, Gamer, Sports Player, Sketcher, and a Pianist!
+## I'm also an Athlete, and I train many martial arts and also train at the gym
 
-- Currently, most of my Repositories are set to private. But might upload stuff to public in the near future!
-- 🌱 I’m currently mastering the MERN tech-stack
-- ⚡ Fun fact: I love to sketch Anime Characters and play football
-- 🥅 2023 Goals: Read more books that pertains to life
+- Currently, most of my Repositories are set to private. But might upload stuff to the public shortly!
+- 🌱 I’m currently mastering Artificial Intelligence
+- ⚡ Fun fact: I am very interested in Business
+- 🥅 2024 Goals: Reach Master Attainment in Artificial Intelligence and Human Psychology
 
 ### A little more about me:
 ```py
@@ -25,16 +25,16 @@ def main():
         Gender: {gender}            
             ''')
             Technologies = {
-                "Javascript" : 100,
-                "Python"     : 100,
+                "Python" : 100,
+                "C#"     : 100,
             }
             Studying = {
-            "Front-End" : 
+            "Artificial Intelligence" : 
                 [
-                "MongoDB",
-                "Expressjs",
-                "React",
-                "Nodejs"
+                "Neural Networks",
+                "Deep Learning",
+                "Machine Learning",
+                "Data Collection"
                 ]
             }
             print(f'''
@@ -45,7 +45,7 @@ def main():
         ''')
         
 
-    South_Valley = South("South", 15, "Male")
+    South_Valley = South("South", 17, "Male")
 
 if __name__ == '__main__':
     main()
