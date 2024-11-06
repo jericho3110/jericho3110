@@ -88,7 +88,3 @@ if __name__ == '__main__':
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jericho3110&theme=onedarkr" alt="jericho3110" />
 </p>
-
-<br>
-<img src="https://github.com/jericho3110/jericho3110/blob/main/images/stat.svg" alt="Wakatime Stats"/>
-<br>
