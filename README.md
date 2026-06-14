@@ -97,7 +97,7 @@ class Jericho:
 
 <br/>
 
-> <img src="[https://tai3.cn/wp-content/uploads/mascot_konqi-614x1024.jpg](https://community.kde.org/images.community/4/40/Mascot_konqi.png)" width="60" align="left" style="margin-right: 10px;"/> **Konqi approves.**
+> <img src="https://community.kde.org/images.community/4/40/Mascot_konqi.png" width="60" align="left" style="margin-right: 10px;"/> **Konqi approves.**
 
 <br/>
 
