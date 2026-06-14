@@ -46,8 +46,17 @@ class Jericho:
 
 ### Languages & Backend
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-9C033A.svg?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white&style=for-the-badge)
+![Assembly x86](https://img.shields.io/badge/Assembly_x86-525252.svg?logo=assemblyscript&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 ### AI / Data
@@ -56,11 +65,28 @@ class Jericho:
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
 
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white&style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A.svg?logo=celery&logoColor=white&style=for-the-badge)
+![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624.svg?logo=linux&logoColor=black&style=for-the-badge)
+
 ### Environment
 ![Fedora](https://img.shields.io/badge/Fedora-294172.svg?logo=fedora&logoColor=white&style=for-the-badge)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF.svg?logo=gnome&logoColor=white&style=for-the-badge)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3.svg?logo=kde&logoColor=white&style=for-the-badge)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?logo=wayland&logoColor=black&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+
+<br/>
+
+> <img src="https://kde.org/stuff/clipart/KDE_Mascot_Konqi_for_GNU_Linux.png" width="60" align="left" style="margin-right: 10px;"/> **Konqi approves.** Daily driving KDE Plasma — because the desktop should work *for* you, not against you.
+
+<br/>
 
 </div>
 
