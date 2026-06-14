@@ -16,19 +16,6 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class Jericho:
-    stack        = ["Python", "FastAPI", "Flask", "SQLite", "Docker"]
-    environment  = ["Fedora Linux", "Hyprland WM"]
-    currently    = "Building an AI content intelligence pipeline"
-    interests    = ["LLM tooling", "backend systems", "technical founding"]
-    principle    = "He who fights with monsters might take care lest he thereby become a monster."
-```
-
----
-
 ## 🔭 Current Project
 
 ### 🧬 AI Content Intelligence Pipeline
