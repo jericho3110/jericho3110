@@ -1,6 +1,5 @@
 <div align="center">
-
-# Jericho Cabucos
+  
 ### `jericho3110`
 
 <a href="https://git.io/typing-svg">
