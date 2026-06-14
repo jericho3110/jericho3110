@@ -97,7 +97,7 @@ class Jericho:
 
 <br/>
 
-> <img src="https://kde.org/stuff/clipart/KDE_Mascot_Konqi_for_GNU_Linux.png" width="60" align="left" style="margin-right: 10px;"/> **Konqi approves.** Daily driving KDE Plasma — because the desktop should work *for* you, not against you.
+> <img src="https://tai3.cn/wp-content/uploads/mascot_konqi-614x1024.jpg" width="60" align="left" style="margin-right: 10px;"/> **Konqi approves.**
 
 <br/>
 
