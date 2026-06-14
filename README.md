@@ -20,7 +20,7 @@
 
 ```python
 class Jericho:
-    location     = "Cebu, Philippines 🇵🇭"
+    location     = "Philippines 🇵🇭"
     stack        = ["Python", "FastAPI", "Flask", "SQLite", "Docker"]
     environment  = ["Fedora Linux", "Hyprland WM"]
     currently    = "Building an AI content intelligence pipeline"
