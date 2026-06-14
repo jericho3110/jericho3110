@@ -98,8 +98,8 @@ class Jericho:
 <br/>
 
 <p align="center">
-  <img src="https://kde.org/stuff/clipart/KDE_Mascot_Konqi_for_GNU_Linux.png" width="80"/><br/>
-  <strong>Konqi approves.</strong> Daily driving KDE Plasma — because the desktop should work <em>for</em> you, not against you.
+  <img src="https://community.kde.org/images.community/thumb/4/40/Mascot_konqi.png/540px-Mascot_konqi.png?20170108205743" width="80"/><br/>
+  <strong>Konqi approves.</strong>
 </p>
 
 <br/>
@@ -124,26 +124,6 @@ class Jericho:
 <a href="https://github.com/jericho3110">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jericho3110&theme=midnight-purple&hide_border=true" />
 </a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jericho3110&theme=dracula&no-frame=true&margin-w=4&column=6)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=jericho3110&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
