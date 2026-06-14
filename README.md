@@ -126,24 +126,6 @@ class Jericho:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jericho3110&theme=dracula&no-frame=true&margin-w=4&column=6)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=jericho3110&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 <div align="center">
