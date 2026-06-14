@@ -3,7 +3,7 @@
 ### `jericho3110`
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=He+who+fights+with+monsters...;...might+take+care+lest+he+become+one.;Python+Backend+Developer;AI+Pipeline+Builder+%7C+Cebu%2C+PH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=He+who+fights+with+monsters...;...might+take+care+lest+he+become+one.;Python+Backend+Developer;AI+Pipeline+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
