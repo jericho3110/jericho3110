@@ -1,9 +1,9 @@
 <div align="center">
-  
+
 ### `jericho3110`
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=He+who+fights+with+monsters...;...might+take+care+lest+he+become+one.;Python+Backend+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aut+Viam+Inveniam+Aut+Faciam.;I+will+find+a+way+or+make+one." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,8 +83,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://community.kde.org/images.community/thumb/4/40/Mascot_konqi.png/540px-Mascot_konqi.png?20170108205743" width="80"/><br/>
-  <strong>Konqi approves.</strong>
+  <img src="https://kde.org/stuff/clipart/KDE_Mascot_Konqi_for_GNU_Linux.png" width="80"/><br/>
+  <strong>Konqi approves.</strong> Daily driving KDE Plasma — because the desktop should work <em>for</em> you, not against you.
 </p>
 
 <br/>
@@ -116,7 +116,8 @@
 
 <div align="center">
 
-*"He who fights with monsters might take care lest he thereby become a monster."*  
-**— Nietzsche**
+*"Aut Viam Inveniam Aut Faciam."*  
+*"I will find a way, or make one."*  
+**— Hannibal Barca, 218 BC**
 
 </div>
