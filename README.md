@@ -83,8 +83,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://kde.org/stuff/clipart/KDE_Mascot_Konqi_for_GNU_Linux.png" width="80"/><br/>
-  <strong>Konqi approves.</strong> Daily driving KDE Plasma — because the desktop should work <em>for</em> you, not against you.
+  <img src="https://community.kde.org/images.community/4/40/Mascot_konqi.png" width="80"/><br/>
+  <strong>Konqi approves.</strong>
 </p>
 
 <br/>
